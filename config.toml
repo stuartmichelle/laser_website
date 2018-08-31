@@ -15,7 +15,9 @@ googleAnalytics = "UA-124960515-1"
   sidebarAbout = [
     "I create lace-like jewelry from wood using a laser.", 
     
-    "These earrings are currently for sale at Through the Moon Gate at the corner of 5th and Raritan in Highland Park, NJ."
+    "These earrings are currently for sale at Through the Moon Gate at the corner of 5th and Raritan in Highland Park, NJ.", 
+    
+    "If you are interested in purchasing a pair or two, please feel free to contact me at mslasercutter@gmail.com with the design you are interested in."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
