@@ -1,10 +1,13 @@
 +++
-description = "birch and stainless steel"
-thumbnail = "images/no_5.jpg"
-image = "images/no_5.jpg"
-title = "No. 5"
-slug = "no_5"
-author = "Michelle Stuart"
+showonlyimage = false
 draft = false
-hidesidebar = true
+image = "img/portfolio/no_5.JPG"
+date = "2018-08-31 09:09:38 EDT"
+title = "No. 5"
+weight = 0
 +++
+
+birch and stainless steel
+<!--more-->
+
+![](/img/portfolio/no_5.JPG)
