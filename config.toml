@@ -1,6 +1,6 @@
 languageCode = "en-us"
-title = "Ms. Laser Cutter"
-baseURL = "http://localhost:1313/"
+title = ""
+baseURL = "https://mslasercutter.netlify.com"
 theme = "hugo-theme-dopetrope"
 
 [params.portfolio]
