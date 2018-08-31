@@ -14,5 +14,8 @@ theme = "hugo-theme-dopetrope"
     foldername = "blog"
 
 [params.settings]
-    googleanalytics = "UA-113904582-1"
+    googleanalytics = "UA-124960515-1"
     disqus = "hugo-dopetrope"
+    
+[social]
+  instagram = "https://www.instagram.com/mslasercutter/"
