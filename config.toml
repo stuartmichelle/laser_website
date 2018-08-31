@@ -39,10 +39,6 @@ googleAnalytics = "UA-124960515-1"
   name = "About"
   url = "about/"
 
-  [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
-
   [params.social]
   email         = "mslasercutter@gmail.com"
   instagram     = "https://www.instagram.com/mslasercutter/"
