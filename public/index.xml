@@ -6,28 +6,28 @@
     <description>Recent content on Ms. Laser Cutter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Name of the work 1</title>
+      <title>No. 1</title>
       <link>/portfolio/work1/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/portfolio/work1/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+      <description>&lt;p&gt;birch and stainless steel
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>No. 2</title>
-      <link>/portfolio/no_2/</link>
+      <link>/portfolio/02-item/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/no_2/</guid>
-      <description></description>
+      <guid>/portfolio/02-item/</guid>
+      <description>&lt;p&gt;birch and stainless steel
+&lt;/p&gt;</description>
     </item>
     
     <item>
