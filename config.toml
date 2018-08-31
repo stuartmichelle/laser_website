@@ -13,7 +13,9 @@ googleAnalytics = "UA-124960515-1"
   style = "sea"
   description = "Describe your website"
   sidebarAbout = [
-    "I create lace-like jewelry from wood using a laser."
+    "I create lace-like jewelry from wood using a laser.", 
+    
+    "These earrings are currently for sale at Through the Moon Gate at the corner of 5th and Raritan in Highland Park, NJ."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
