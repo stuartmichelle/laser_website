@@ -6,4 +6,5 @@ title = "No. 3"
 slug = "no_3"
 author = "Michelle Stuart"
 draft = false
+hidesidebar = true
 +++
