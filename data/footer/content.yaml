@@ -1,15 +1,15 @@
 sections:
-- title: 'Blandit nisl adipiscing'
+- title: 'Recent Posts'
 
 - title: "What's this all about?"
   imagelink: '#'
-  imageurl: "images/pic10.jpg"
-  description: "This is Dopetrope a free, fully responsive HTML5 site template by AJ for HTML5 UP It's released for free under the Creative Commons Attribution license so feel free to use it for any personal or commercial project – just don't forget to credit us!"
+  imageurl: "images/pic01.jpg"
+  description: "Most of the laser cut jewelry that I create is similar to a lace made of wood.  These pieces are very light weight, making them comfortable to wear but also very fragile."
   buttonlink: "#"
-  buttontext: "Find out more"
+  buttontext: "Back to the top"
 
-- title: 'Tempus consequat'
+- title: 'Links of Interest'
 
-- title: 'Ipsum et phasellus'
+- title: 'More Links of Interest'
 
-- title: 'Vitae tempor lorem'
+- title: 'Connect to us on Social Media'

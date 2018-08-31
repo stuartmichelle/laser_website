@@ -2,6 +2,7 @@ languageCode = "en-us"
 title = ""
 baseURL = "https://mslasercutter.netlify.com"
 theme = "hugo-theme-dopetrope"
+hidesidebar = "true"
 
 [params.portfolio]
     title = "Earrings"
@@ -9,9 +10,9 @@ theme = "hugo-theme-dopetrope"
     findoutmoretext = "Find out more"
 
 [params.blog]
-    title = "The Blog"
-    viewalltext = "View All"
-    foldername = "blog"
+    title = ""
+    viewalltext = ""
+    foldername = ""
 
 [params.settings]
     googleanalytics = "UA-124960515-1"

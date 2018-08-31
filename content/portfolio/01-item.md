@@ -1,10 +1,9 @@
 +++
-description = "Portfolio item description"
-thumbnail = "images/pic02.jpg"
-image = "images/pic01.jpg"
-title = "Portfolio item"
-slug = "first-portfolio"
-author = "John Smith"
+description = "birch and stainless steel"
+thumbnail = "images/no_1.jpg"
+image = "images/no_1.jpg"
+title = "No. 1"
+slug = "no_1"
+author = "Michelle Stuart"
 draft = false
 +++
-Testing content

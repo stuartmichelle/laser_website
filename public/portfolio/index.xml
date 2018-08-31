@@ -11,57 +11,48 @@
     
     
     <item>
-      <title>3 Portfolio item</title>
-      <link>/portfolio/3-portfolio/</link>
+      <title>No. 1</title>
+      <link>/portfolio/no_1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/3-portfolio/</guid>
-      <description>Testing content</description>
+      <guid>/portfolio/no_1/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Portfolio item</title>
-      <link>/portfolio/first-portfolio/</link>
+      <title>No. 2</title>
+      <link>/portfolio/no_2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/first-portfolio/</guid>
-      <description>Testing content</description>
+      <guid>/portfolio/no_2/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Portfolio item</title>
-      <link>/portfolio/2-portfolio/</link>
+      <title>No. 3</title>
+      <link>/portfolio/no_3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/2-portfolio/</guid>
-      <description>Testing content</description>
+      <guid>/portfolio/no_3/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Portfolio item</title>
-      <link>/portfolio/4-portfolio/</link>
+      <title>No. 4</title>
+      <link>/portfolio/no_4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/4-portfolio/</guid>
-      <description>Testing content</description>
+      <guid>/portfolio/no_4/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Portfolio item</title>
-      <link>/portfolio/5-portfolio/</link>
+      <title>No. 5</title>
+      <link>/portfolio/no_5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/5-portfolio/</guid>
-      <description>Testing content</description>
-    </item>
-    
-    <item>
-      <title>Portfolio item</title>
-      <link>/portfolio/6-portfolio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/portfolio/6-portfolio/</guid>
-      <description>Testing content</description>
+      <guid>/portfolio/no_5/</guid>
+      <description></description>
     </item>
     
   </channel>
