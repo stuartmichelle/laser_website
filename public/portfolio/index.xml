@@ -12,12 +12,11 @@
     
     <item>
       <title>No. 1</title>
-      <link>/portfolio/work1/</link>
+      <link>/portfolio/01-item/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/work1/</guid>
-      <description>&lt;p&gt;birch and stainless steel
-&lt;/p&gt;</description>
+      <guid>/portfolio/01-item/</guid>
+      <description>&lt;p&gt;birch and stainless steel&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -26,35 +25,35 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/portfolio/02-item/</guid>
-      <description>&lt;p&gt;birch and stainless steel
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;birch and stainless steel&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>No. 3</title>
-      <link>/portfolio/no_3/</link>
+      <link>/portfolio/03-item/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/no_3/</guid>
-      <description></description>
+      <guid>/portfolio/03-item/</guid>
+      <description>&lt;p&gt;birch and stainless steel&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>No. 4</title>
-      <link>/portfolio/no_4/</link>
+      <link>/portfolio/04-item/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/no_4/</guid>
-      <description></description>
+      <guid>/portfolio/04-item/</guid>
+      <description>&lt;p&gt;birch and stainless steel&lt;br /&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>No. 5</title>
-      <link>/portfolio/no_5/</link>
+      <link>/portfolio/05-item/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/no_5/</guid>
-      <description></description>
+      <guid>/portfolio/05-item/</guid>
+      <description>&lt;p&gt;birch and stainless steel&lt;/p&gt;</description>
     </item>
     
   </channel>

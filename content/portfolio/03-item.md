@@ -7,9 +7,14 @@ title = "No. 3"
 weight = 0
 +++
 
-birch and stainless steel
+birch and stainless steel  
 
-This item is available in 2 sizes. The small is about 1" in diameter and the large is closer to 2".
 <!--more-->
+This item is available in 2 sizes.   
+The small is 7/8" in diameter (2.3 cm)  
+The large is 1 3/8" in diameter (4.1 cm).
 
-![](/img/portfolio/no_3.JPG)
+![](/img/portfolio/no_3.JPG)  
+![](/img/portfolio/no_3_b.jpg)
+
+{{< paypal CDKBKSSB8ZVZA >}}

@@ -7,7 +7,15 @@ title = "No. 4"
 weight = 0
 +++
 
-birch and stainless steel
+birch and stainless steel  
 <!--more-->
+  
+  
+1 7/8" long (5.3 cm)
 
 ![](/img/portfolio/no_4.JPG)
+
+{{< paypal 7MEE2RUG4GRCL>}}
+
+
+

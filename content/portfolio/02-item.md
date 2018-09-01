@@ -7,7 +7,12 @@ title = "No. 2"
 weight = 0
 +++
 
-birch and stainless steel
+birch and stainless steel  
+
 <!--more-->
+1 5/8" diameter (4.9 cm)
 
 ![](/img/portfolio/no_2.JPG)
+
+{{< paypal 84FN5B6J4MSR4>}}
+
