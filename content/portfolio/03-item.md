@@ -19,4 +19,4 @@ Currently both are priced at $39.99
 ![](/img/portfolio/no_3.JPG)  
 ![](/img/portfolio/no_3_b.jpg)
 
-{{< paypal_select CDKBKSSB8ZVZA >}}
+{{< no_3_paypal >}}
