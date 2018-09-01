@@ -11,6 +11,7 @@ birch and stainless steel
 
 <!--more-->
 1 7/8" long (5.3 cm)
+$39.99
 
 
 ![](/img/portfolio/no_5.JPG)

@@ -14,6 +14,8 @@ This item is available in 2 sizes.
 The small is 7/8" in diameter (2.3 cm)  
 The large is 1 3/8" in diameter (4.1 cm).
 
+Currently both are priced at $39.99 - also there seems to be a problem with this item in paypal because of the size selection option...working on it.
+
 ![](/img/portfolio/no_3.JPG)  
 ![](/img/portfolio/no_3_b.jpg)
 

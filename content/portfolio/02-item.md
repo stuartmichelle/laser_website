@@ -10,7 +10,8 @@ weight = 0
 birch and stainless steel  
 
 <!--more-->
-1 5/8" diameter (4.9 cm)
+1 5/8" diameter (4.9 cm)  
+$39.99
 
 ![](/img/portfolio/no_2.JPG)
 
