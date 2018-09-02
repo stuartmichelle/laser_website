@@ -17,6 +17,11 @@ The large is 1 3/8" in diameter (4.1 cm).
 Currently both are priced at $39.99
 
 ![](/img/portfolio/no_3.JPG)  
-![](/img/portfolio/no_3_b.jpg)
+
+![](/img/portfolio/no_3_b.jpg)  
+
+![](/img/portfolio/no_3L_out.JPG)  
+![](/img/portfolio/no_3S_out.JPG)  
+
 
 {{< no_3_paypal >}}

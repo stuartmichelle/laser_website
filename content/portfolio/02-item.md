@@ -13,7 +13,9 @@ birch and stainless steel
 1 5/8" diameter (4.9 cm)  
 $39.99
 
-![](/img/portfolio/no_2.JPG)
+![](/img/portfolio/no_2.JPG)  
+
+![](/img/portfolio/no_2_out.JPG)
 
 {{< paypal 84FN5B6J4MSR4>}}
 
